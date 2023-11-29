@@ -1,1 +1,4 @@
 # neural-networks-and-deep-learning-final-project
+NAME : BALARITHIK REDDY GADE
+STUDENT ID :700752869
+PROJECT TITLE : FACE MASK DETECTION USING CNN
